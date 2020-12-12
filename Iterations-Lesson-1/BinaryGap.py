@@ -36,7 +36,7 @@ def solution(N):
         i >>= 1
     return maxBinaryGap
 
-print(solution(1041))
+# print(solution(1041))
 
 
 # NOTES
