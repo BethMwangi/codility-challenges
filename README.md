@@ -3,7 +3,7 @@
 
 ## WHAT?
 
-Solving programming challenges pulled from codility(https://www.codility.com/) 
+Solving programming challenges pulled from [codility](https://www.codility.com/) 
 
   - Languages used; 
 
