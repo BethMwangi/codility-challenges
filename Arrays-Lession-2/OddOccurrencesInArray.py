@@ -54,3 +54,9 @@ print(Solution([9,3,9,3,9,7,9]))
 # seen is seen ={{9: 4, 3: 2, 7: 1} , 9 appears 4 times, 3 appears 2 times and 7 appears once.
 # Then loop each pair in the dictionary(seen), and check any count that has no pair in this case, an odd number (count%2 != 2)
 # and return the value
+
+# // Codility Results
+
+# // Task Score = 100%
+# // Correctness = 100%
+# // Perfomance = 100%
